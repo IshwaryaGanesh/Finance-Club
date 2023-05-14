@@ -1,0 +1,2 @@
+# Finance-Club
+Algorthmic Trading
